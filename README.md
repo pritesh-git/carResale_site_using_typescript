@@ -1,6 +1,6 @@
 # Car Dealer Project
 
-This is car resale/repair website using JavaScript for FrontEnd.
+This is car resale/repair website using TypeScript for FrontEnd.
 
 > This is a under progress repo could have incomplete components
 
